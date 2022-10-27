@@ -1,6 +1,6 @@
 {
   "name": "s-ichikawa/dietrunner",
-  "description": "fitcube",
+  "description": "DietRunner runs applications compatible with Dietcube by using RoadRunner",
   "license": "MIT",
   "require": {
     "php": "^8.1",
@@ -17,5 +17,13 @@
     "psr-4": {
       "Sichikawa\\Dietrunner\\": "src/"
     }
-  }
+  },
+  "authors": [
+    {
+      "name": "shingo.ichikawa",
+      "email": "ichikawa.shingo.0829@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
